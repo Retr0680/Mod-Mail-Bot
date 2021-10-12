@@ -10,12 +10,12 @@
 <img align="center" src=".img/bot.png" width="900">
 </p>
 
-[**Latest Version**](https://github.com/Retr0680/Discord-Bot/)
+[**Latest Version**](https://github.com/Retr0680/Mod-Mail-Bot/releases)
 
 ## Installation ⚙️
 1. Fork/Clone/Download this repo
 
-    `git clone https://github.com/Retr0680/Discord-Bot.git`
+    `git clone https://github.com/Retr0680/Mod-Mail-Bot.git`
 
 2. Navigate to the directory
 
@@ -32,8 +32,8 @@
 
 ## 💨 Run the project
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Retr0680/) <br><br>
-[![Run on Repl.it](https://repl.it/badge/github/Retr0680/)](https://repl.it/github/Retr0680/)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Retr0680/Mod-Mail-Bot) <br><br>
+[![Run on Repl.it](https://repl.it/badge/github/Retr0680/Mod-Mail-Bot)](https://repl.it/github/Retr0680/Mod-Mail-Bot)
 
 ## Updating ⬇️
 
