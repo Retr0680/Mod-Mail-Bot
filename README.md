@@ -9,7 +9,10 @@
 ## 📸 Screenshots
 
 <p align="left">
-<img align="left" src=".img/bot.png" width="900">
+<img align="left" src=".img/bot.png">
+</p><br><br>
+<p align="center">
+<img align="center" src=".img/Demo.png">
 </p>
 
 [**Latest Version**](https://github.com/Retr0680/Mod-Mail-Bot/releases)
