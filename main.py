@@ -61,4 +61,5 @@ async def on_message(message):
             await member_object.send("[" + message.author.display_name + "]" + mod_message)
 
 keep_alive()
-client.run('ODk1OTgyMzY5MjcyNjUxNzk2.YWAemw.iCr0zwsZ5sbratZtobdeQVNLGHU')
+# add your bot token in the client.run area
+client.run('Toekn')
