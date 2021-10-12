@@ -14,6 +14,9 @@
 <p align="center">
 <img align="center" src=".img/Demo.png">
 </p>
+<p align="right">
+<img align="right" src=".img/demo 2.png">
+</p>
 
 [**Latest Version**](https://github.com/Retr0680/Mod-Mail-Bot/releases)
 
