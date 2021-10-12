@@ -6,8 +6,13 @@
 
  The last Discord Bot for **Mod-Mail** you'll ever need
 
+## 📸 Screenshots
 <div align="left"><img src=".img/bot.png"></div><div align="center"><img src=".img/Demo.png"></div><div 
 align="right"><img src=".img/demo 2.png"></div>
+
+<p align="left">
+<img align="left" src=".img/bot.png" width="900">
+</p>
 
 [**Latest Version**](https://github.com/Retr0680/Mod-Mail-Bot/releases)
 
