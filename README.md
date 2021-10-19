@@ -4,13 +4,10 @@
 [![MIT](https://img.shields.io/badge/License-MIT-blue)](https://img.shields.io/badge/License-MIT-blue)
 [![Python3](https://img.shields.io/badge/Language-Python3-red)](https://img.shields.io/badge/Language-Python3-red)
 
- The last Discord Bot for **Mod-Mail** you'll ever need
+ The last Discord Bot for **Mod-Mail** you'll ever need!!
 
 ## 📸 Screenshots
 
-<p align="left">
-<img align="left" src=".img/bot.png">
-</p><br><br>
 <p align="center">
 <img align="center" src=".img/Demo.png">
 </p>
@@ -38,9 +35,14 @@
     * `main.py`
     * `python3 main.py`
 
+<p align="center">
+<img align="center" src=".img/bot.png">
+</p>
+
 ## 💨 Run the project
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Retr0680/Mod-Mail-Bot) <br><br>
+
 [![Run on Repl.it](https://repl.it/badge/github/Retr0680/Mod-Mail-Bot)](https://repl.it/github/Retr0680/Mod-Mail-Bot)
 
 ## Updating ⬇️
