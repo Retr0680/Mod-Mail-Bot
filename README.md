@@ -1,4 +1,4 @@
-### Mod-Mail Bot
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Mod%20-Mail%20Bot%20🤖&fontSize=57&reversal=true&desc=The%20Last%20Discord%20Bot%20For%20Mod-Mail%20you%20would%20ever%20need!&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
 [![Version-1](https://img.shields.io/badge/Version-1-green)](https://github.com/Retr0680/Discord-Bot/)
 [![MIT](https://img.shields.io/badge/License-MIT-blue)](https://img.shields.io/badge/License-MIT-blue)
