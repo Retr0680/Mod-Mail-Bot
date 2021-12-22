@@ -4,8 +4,6 @@
 [![MIT](https://img.shields.io/badge/License-MIT-blue)](https://img.shields.io/badge/License-MIT-blue)
 [![Python3](https://img.shields.io/badge/Language-Python3-red)](https://img.shields.io/badge/Language-Python3-red)
 
- The last Discord Bot for **Mod-Mail** you'll ever need!!
-
 ## 📸 Screenshots
 
 <p align="center">
