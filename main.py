@@ -62,4 +62,4 @@ async def on_message(message):
 
 keep_alive()
 # add your bot token in the client.run area
-client.run('Toekn')
+client.run('Token')
